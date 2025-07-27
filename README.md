@@ -1,6 +1,6 @@
 Welcome to my profile! This place is a history archive of all my learnings in development so far.
 
-Some of my best works are not displaced here though - checkout [VietRocHack](https://github.com/VietRocHack) or our [website](https://vietrochack.com)
+Some of my best works are not displayed here though - checkout [VietRocHack](https://github.com/VietRocHack) or our [website](https://vietrochack.com). This is our many-winning hackathon team, focused on trying new AI stuff, good presentations, and fun!
 
 FAQ:
 - 🔭 I’m currently working at [Fetch Rewards](https://fetch.com) as a backend development intern using Go
