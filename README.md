@@ -4,7 +4,7 @@ Some of my best works are not displayed here though - checkout [VietRocHack](htt
 
 FAQ:
 - 🔭 I’m currently a CS senior at the [University of Rochester](https://rochester.edu). Last summer, I worked at [Fetch Rewards](https://fetch.com) as a backend development intern using Go.
-- 🔎 Currently, I'm working on a project to incorporate AI into student tutoring, and a project to improve K-12 learning through visualizations.
+- 🔎 Currently, I'm working on a research to incorporate AI into student tutoring, and a project to improve K-12 learning through visualizations.
 - 💻 Primary Tech Stack: Backend with **Go** and **Python**, with experience developing frontends with **React/JavaScript/TypeScript**.
 - 🌱 I’m learning Linux, Vim, and OS mechanics in general!
 - 👯 I’m looking to collaborate on hackathons, project building, and more...
